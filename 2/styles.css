@@ -1,0 +1,33 @@
+#header {
+    background: #438abc;
+    border-bottom: 5px #E17F1E solid;
+    color: whitesmoke;
+} 
+#left p {
+    font-size: 15px;
+}
+
+#middle {
+    text-align: center;
+}
+
+#right {
+    text-align: right;
+    padding: 20px;
+}
+
+#footer {
+    background: #438abc;
+    border-top: 5px #E17F1E solid;
+    color: whitesmoke;
+    text-decoration: none;
+}
+#footer a {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+#info {
+    text-align: center;
+    padding-top: 30px;
+    background-color: whitesmoke;
+}
